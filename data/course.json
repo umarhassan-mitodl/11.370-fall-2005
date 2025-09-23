@@ -1,0 +1,53 @@
+{
+  "term": "Fall",
+  "year": "2005",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Architecture",
+      "Environmental Design"
+    ],
+    [
+      "Social Science",
+      "Urban Studies",
+      "Urban Planning"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Public Policy"
+    ]
+  ],
+  "legacy_uid": "1c8d0090-44f7-138b-f5b0-c4a608a5f548",
+  "instructors": {
+    "content": [
+      "56ca3cd8-390d-576b-79ba-f9363a5ab133"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "58484e83-38a1-c115-914d-c5594bede894",
+    "website": "11-370-brownfields-policy-and-practice-fall-2005"
+  },
+  "course_title": "Brownfields Policy and Practice",
+  "course_description": "There are several hundred thousand Brownfield sites across the country. The large number of sites, combined with how a majority of these properties are located in urban and historically underserved communities, dictate that redevelopment of these sites stands to be a common theme in urban planning for the foreseeable future. Students form a grounded understanding of the Brownfield lifecycle: how and why they were created, their potential role in community revitalization, and the general processes governing their redevelopment. Using case studies and guest speakers from the public, private and non-profit sectors, students develop and hone skills to effectively address the problems posed by these inactive sites.\n",
+  "department_numbers": [
+    "11"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "11.370",
+  "course_image_thumbnail": {
+    "content": "6b7d4002-0af3-f220-2c1f-75fa29c2f1ef",
+    "website": "11-370-brownfields-policy-and-practice-fall-2005"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "1f7a4a2a-d7e6-4340-aaeb-39505684f856",
+  "site_short_id": "11.370-fall-2005",
+  "site_url_path": "courses/11-370-brownfields-policy-and-practice-fall-2005",
+  "title": "Course Metadata"
+}

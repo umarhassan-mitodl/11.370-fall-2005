@@ -7,6 +7,8 @@ description: 'Example of student work for the final project: a survey tool and r
 file: /courses/11-370-brownfields-policy-and-practice-fall-2005/a110d9ce61927760cac78f5862a6365a_final_project.pdf
 file_size: 206061
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

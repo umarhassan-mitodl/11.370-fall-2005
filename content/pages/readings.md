@@ -113,7 +113,7 @@ Ackerman, Jerry, Jonathon L. Feinstein, and William J. Roache. "Environmental Ec
 
 Fox Gorte, Julie. *Marketing Brownfield Cleanup Technologies*. Washington, DC: Northeast-Midwest Institute, 1999. ISBN: 1882061675.
 
-USEPA, "EPA Series: A Citizen's Guide to Cleanup Technologies," U.S. EPA Office of Superfund Remediation and Technology Innovation. ({{% resource_link "6c87ce78-027e-4238-bc58-bd794329828a" "PDF" %}})
+USEPA, "EPA Series: A Citizen's Guide to Cleanup Technologies," U.S. EPA Office of Superfund Remediation and Technology Innovation. ([PDF](http://www.clu-in.org/products/citguide/))
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
@@ -139,9 +139,9 @@ Guest Speaker - Dave Merill
 Recap of Environmental Issues
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "41182580-df0e-43b9-b22a-533bc704a68c" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Ozawa, Connie P. "Science in Environmental Conflicts." *Sociological Perspectives* 39, no. 2: 219-230.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/0262082845) Ozawa, Connie P. "Science in Environmental Conflicts." *Sociological Perspectives* 39, no. 2: 219-230.
 
-O'Brien, Mary. "When Harm Is Not Necessary: Risk Assessment as Diversion." In {{% resource_link "5a228a10-fe04-4316-9ed9-8b1120a05c89" "*Reclaiming the Environmental Debate: The Politics of Health in a Toxic Culture*" %}}. Cambridge, MA: MIT Press, 2000, pp. 113-134. ISBN: 0262082845.
+O'Brien, Mary. "When Harm Is Not Necessary: Risk Assessment as Diversion." In [*Reclaiming the Environmental Debate: The Politics of Health in a Toxic Culture*](https://mitpress.mit.edu/books/reclaiming-environmental-debate). Cambridge, MA: MIT Press, 2000, pp. 113-134. ISBN: 0262082845.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
@@ -187,7 +187,7 @@ Guest Speaker - Eli Levine, Brownfields Recovery Corp.
 
 Meyer, Peter B., and Thomas S. Lyons. "Lessons from Private Sector Brownfields Redevelopers." *APA Journal* 66, no. 1 (Winter 2000).
 
-Silber, Kenneth. "{{% resource_link "0a3e4728-bd70-408c-b681-0a89c090a6c4" "When Cleanliness Isn't a Virtue" %}}." *City Journal*.
+Silber, Kenneth. "[When Cleanliness Isn't a Virtue](http://www.city-journal.org/html/5_4_when_cleanliness.html)." *City Journal*.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
@@ -205,13 +205,13 @@ Dewar, Margaret, and Sabina Deitrick. "The Role of Community Development Corpora
 Where does that Leave us?
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "41182580-df0e-43b9-b22a-533bc704a68c" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Bartsch, Charles. "Maturing of Brownfields Policies." *Northeast Midwest Economic Review* (July/August 2000): 8-12.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/0262082845) Bartsch, Charles. "Maturing of Brownfields Policies." *Northeast Midwest Economic Review* (July/August 2000): 8-12.
 
 Letser, Stephen. "Brownfields to Greenfields? The Jury is Still Out." *Everyone's Backyard: Citizens Clearinghouse for Hazardous Waste* (Fall 1995): 12-16.
 
-Shutkin, William, and Rafael Mares. "Brownfields and the Redevelopment of Communities: Linking Health, Economy, and Justice." In {{% resource_link "563406c9-88d6-45b6-8c7e-546a6c26a22c" "*Reclaiming the Environmental Debate: The Politics of Health in a Toxic Culture*" %}}. Cambridge, MA: MIT Press, 2000, pp. 57-75. ISBN: 0262082845.
+Shutkin, William, and Rafael Mares. "Brownfields and the Redevelopment of Communities: Linking Health, Economy, and Justice." In [*Reclaiming the Environmental Debate: The Politics of Health in a Toxic Culture*](https://mitpress.mit.edu/9780262581820/reclaiming-the-environmental-debate/). Cambridge, MA: MIT Press, 2000, pp. 57-75. ISBN: 0262082845.
 
-Wernstedt, Ken, et al. "{{% resource_link "a58838a8-9509-4dee-9347-c3917b849d5a" "The Brownfields Phenomenon: Much Ado About Something or the Timing of the Shrewd" %}}?" Discussion Paper 04-46. Washington, DC: Resources for the Future, 2004.
+Wernstedt, Ken, et al. "[The Brownfields Phenomenon: Much Ado About Something or the Timing of the Shrewd](https://media.rff.org/archive/files/sharepoint/WorkImages/Download/RFF-DP-04-46.pdf)?" Discussion Paper 04-46. Washington, DC: Resources for the Future, 2004.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
